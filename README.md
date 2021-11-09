@@ -1,2 +1,2 @@
 # math_decomposition
-Décomposition en facteur premier fait en C++.
+Programme de décomposition en facteurs premiers fait en C++.
